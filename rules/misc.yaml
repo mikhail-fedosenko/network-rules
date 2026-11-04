@@ -5,7 +5,6 @@ payload:
   - DOMAIN,behaviour.surfshark.events
   # Corrd
   - DOMAIN,prod.vlmapi.io
-  - DOMAIN-SUFFIX,findit.city
   - DOMAIN-SUFFIX,meduza.io
   - DOMAIN-SUFFIX,livejournal.com
   - DOMAIN-SUFFIX,zerkalo.io

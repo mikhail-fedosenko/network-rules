@@ -30,7 +30,7 @@ Stash uses the same URL, behavior, format, and interval; omit `type: http`.
 - `misc`: shared miscellaneous domains, including Firebase App Distribution, Surfshark, news sites, and Cloudflare Radar.
 - `surfshark`: service domains.
 - `surfshark-webrtc`: existing WebRTC IP rule. Reference using `RULE-SET,surfshark-webrtc,PROXY,no-resolve` to preserve its original behavior.
-- `additional-services`: Majestic, Semrush, Ahrefs, and Moz. Shared entries live in `misc`; reference `misc` first.
+- `andrei`: findit.city and SEO services (Majestic, Semrush, Ahrefs, Moz). SEO entries are grouped under a comment. Replaces `additional-services`.
 
 The initial import preserves existing matching conditions, including shared third-party endpoints. It is not a claim that the lists are complete or exclusively match one service. Disabled rules were not imported.
 

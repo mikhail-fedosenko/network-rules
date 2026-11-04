@@ -27,10 +27,10 @@ Stash uses the same URL, behavior, format, and interval; omit `type: http`.
 
 - `openai`, `grok`, `gemini`, `claude`: AI services, including some shared endpoints.
 - `jetbrains`, `spotify`, `instagram`: service domains and associated endpoints.
-- `app-distribution`: Firebase App Distribution.
+- `misc`: shared miscellaneous domains, including Firebase App Distribution, Surfshark, news sites, and Cloudflare Radar.
 - `surfshark`: service domains.
 - `surfshark-webrtc`: existing WebRTC IP rule. Reference using `RULE-SET,surfshark-webrtc,PROXY,no-resolve` to preserve its original behavior.
-- `additional-services`: remaining active service, SEO, and news domain rules, in their original order.
+- `additional-services`: Majestic, Semrush, Ahrefs, and Moz. Shared entries live in `misc`; reference `misc` first.
 
 The initial import preserves existing matching conditions, including shared third-party endpoints. It is not a claim that the lists are complete or exclusively match one service. Disabled rules were not imported.
 

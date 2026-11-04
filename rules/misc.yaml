@@ -1,0 +1,11 @@
+payload:
+  - DOMAIN-SUFFIX,firebaseappdistribution.googleapis.com
+  - DOMAIN-SUFFIX,surfshark.com
+  - DOMAIN,behaviour.surfshark.events
+  - DOMAIN,prod.vlmapi.io
+  - DOMAIN-SUFFIX,findit.city
+  - DOMAIN-SUFFIX,meduza.io
+  - DOMAIN-SUFFIX,livejournal.com
+  - DOMAIN-SUFFIX,zerkalo.io
+  - DOMAIN-SUFFIX,bbc.com
+  - DOMAIN,radar.cloudflare.com

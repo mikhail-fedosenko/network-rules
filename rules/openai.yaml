@@ -1,0 +1,24 @@
+payload:
+  - DOMAIN-SUFFIX,auth.openai.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,ct.sendgrid.net
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercomcdn.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,oaistatsig.com
+  - DOMAIN-SUFFIX,cdn.openaimerge.com
+  - DOMAIN-SUFFIX,cdn.platform.openai.com
+  - DOMAIN-SUFFIX,cdn.workos.com
+  - DOMAIN-SUFFIX,challenges.cloudflare.com
+  - DOMAIN-SUFFIX,forwarder.workos.com
+  - DOMAIN-SUFFIX,frontend-apps-multi-region.workos.com
+  - DOMAIN-SUFFIX,humb.apple.com
+  - DOMAIN-SUFFIX,images.workoscdn.com
+  - DOMAIN-SUFFIX,js.stripe.com
+  - DOMAIN-SUFFIX,o207216.ingest.sentry.io
+  - DOMAIN-SUFFIX,o33249.ingest.sentry.io
+  - DOMAIN-SUFFIX,rum.browser-intake-datadoghq.com
+  - DOMAIN-SUFFIX,setup.workos.com
+  - DOMAIN-SUFFIX,workos.imgix.net

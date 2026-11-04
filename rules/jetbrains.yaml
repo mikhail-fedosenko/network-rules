@@ -1,0 +1,16 @@
+payload:
+  - DOMAIN-SUFFIX,jetbrains.com
+  - DOMAIN-SUFFIX,jetbrains.dev
+  - DOMAIN-SUFFIX,jetbrains.net
+  - DOMAIN-SUFFIX,jetbrains.org
+  - DOMAIN-SUFFIX,jetbrains.space
+  - DOMAIN-SUFFIX,intellij.net
+  - DOMAIN,jb.gg
+  - DOMAIN-SUFFIX,kotlinlang.org
+  - DOMAIN-SUFFIX,kotl.in
+  - DOMAIN,download-cf.jetbrains.com
+  - DOMAIN,download-cdn.jetbrains.com
+  - DOMAIN-SUFFIX,jetbrains.ai
+  - DOMAIN-SUFFIX,jetbrains.cloud
+  - DOMAIN,api.app.prod.grazie.aws.intellij.net
+  - DOMAIN,api.ai.jetbrains.com.cn

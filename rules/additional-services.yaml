@@ -1,11 +1,5 @@
 payload:
-  - DOMAIN,prod.vlmapi.io
-  - DOMAIN-SUFFIX,findit.city
   - DOMAIN-SUFFIX,majestic.com
   - DOMAIN-SUFFIX,semrush.com
   - DOMAIN-SUFFIX,ahrefs.com
   - DOMAIN-SUFFIX,moz.com
-  - DOMAIN-SUFFIX,meduza.io
-  - DOMAIN-SUFFIX,livejournal.com
-  - DOMAIN-SUFFIX,zerkalo.io
-  - DOMAIN-SUFFIX,bbc.com

@@ -1,7 +1,9 @@
 payload:
   - DOMAIN-SUFFIX,firebaseappdistribution.googleapis.com
   - DOMAIN-SUFFIX,surfshark.com
+  # Surfshark
   - DOMAIN,behaviour.surfshark.events
+  # Corrd
   - DOMAIN,prod.vlmapi.io
   - DOMAIN-SUFFIX,findit.city
   - DOMAIN-SUFFIX,meduza.io

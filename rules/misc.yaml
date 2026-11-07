@@ -10,3 +10,5 @@ payload:
   - DOMAIN-SUFFIX,zerkalo.io
   - DOMAIN-SUFFIX,bbc.com
   - DOMAIN,radar.cloudflare.com
+  # ChatGPT sites are hosted on *.*.chatgpt.site
+  - DOMAIN-SUFFIX,chatgpt.site,PROXY
